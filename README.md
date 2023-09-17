@@ -1,2 +1,1 @@
-# Space1
-Practica de javaScript
+# Zombie-Shooter-stage-1
